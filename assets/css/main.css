@@ -20,7 +20,7 @@
 /* Colors */
 :root {
   --color-default: #fafafa;
-  --color-primary: #27a776;
+  --color-primary: #EE953D;
   --color-secondary: #161718;
 }
 
@@ -44,7 +44,7 @@ a {
 }
 
 a:hover {
-  color: #32cf93;
+  color: #FFB674;
   text-decoration: none;
 }
 
@@ -81,7 +81,7 @@ h6 {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #5bd9a9;
+  background: #EE953D;
   margin: 4px 10px;
 }
 
@@ -135,7 +135,7 @@ h6 {
 }
 
 .page-header .cta-btn:hover {
-  background: #2cbc85;
+  background: #FFB674;
 }
 
 /*--------------------------------------------------------------
@@ -162,7 +162,7 @@ h6 {
 }
 
 .scroll-top:hover {
-  background: rgba(39, 167, 118, 0.8);
+  background:#FFB674;
   color: #fff;
 }
 
@@ -376,7 +376,7 @@ h6 {
     letter-spacing: 1px;
     font-size: 13px;
     font-weight: 400;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgb(255, 255, 255);
     white-space: nowrap;
     transition: 0.3s;
   }
@@ -392,7 +392,7 @@ h6 {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #fff;
+    color: #EE953D;
   }
 
   .navbar .dropdown ul {
@@ -428,7 +428,7 @@ h6 {
   .navbar .dropdown ul a:hover,
   .navbar .dropdown ul .active:hover,
   .navbar .dropdown ul li:hover>a {
-    color: #fff;
+    color: #EE953D;
   }
 
   .navbar .dropdown:hover>ul {
@@ -1157,7 +1157,7 @@ h6 {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: rgba(39, 167, 118, 0.8);
+  background: #FFB674;
 }
 
 @keyframes animate-loading {
@@ -1229,7 +1229,7 @@ h6 {
 }
 
 .hero .btn-get-started:hover {
-  background: #2cbc85;
+  background: #FFB674;
 }
 
 @media (max-width: 768px) {
